@@ -1,1 +1,2 @@
 testnet-1
+testnet-2
